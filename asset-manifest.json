@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dince-afk/friends-tipper-react/static/css/main.f38a3276.css",
-    "main.js": "/Dince-afk/friends-tipper-react/static/js/main.a2c8d452.js",
-    "static/js/453.26700302.chunk.js": "/Dince-afk/friends-tipper-react/static/js/453.26700302.chunk.js",
-    "index.html": "/Dince-afk/friends-tipper-react/index.html",
-    "main.f38a3276.css.map": "/Dince-afk/friends-tipper-react/static/css/main.f38a3276.css.map",
-    "main.a2c8d452.js.map": "/Dince-afk/friends-tipper-react/static/js/main.a2c8d452.js.map",
-    "453.26700302.chunk.js.map": "/Dince-afk/friends-tipper-react/static/js/453.26700302.chunk.js.map"
+    "main.css": "/Dince-afk/friends-tipper/static/css/main.f38a3276.css",
+    "main.js": "/Dince-afk/friends-tipper/static/js/main.e90b124b.js",
+    "static/js/453.26700302.chunk.js": "/Dince-afk/friends-tipper/static/js/453.26700302.chunk.js",
+    "index.html": "/Dince-afk/friends-tipper/index.html",
+    "main.f38a3276.css.map": "/Dince-afk/friends-tipper/static/css/main.f38a3276.css.map",
+    "main.e90b124b.js.map": "/Dince-afk/friends-tipper/static/js/main.e90b124b.js.map",
+    "453.26700302.chunk.js.map": "/Dince-afk/friends-tipper/static/js/453.26700302.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f38a3276.css",
-    "static/js/main.a2c8d452.js"
+    "static/js/main.e90b124b.js"
   ]
 }
