@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dince-afk/friends-tipper/static/css/main.f38a3276.css",
+    "main.js": "/Dince-afk/friends-tipper/static/js/main.e90b124b.js",
+    "static/js/453.26700302.chunk.js": "/Dince-afk/friends-tipper/static/js/453.26700302.chunk.js",
+    "index.html": "/Dince-afk/friends-tipper/index.html",
+    "main.f38a3276.css.map": "/Dince-afk/friends-tipper/static/css/main.f38a3276.css.map",
+    "main.e90b124b.js.map": "/Dince-afk/friends-tipper/static/js/main.e90b124b.js.map",
+    "453.26700302.chunk.js.map": "/Dince-afk/friends-tipper/static/js/453.26700302.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.e90b124b.js"
+  ]
+}
